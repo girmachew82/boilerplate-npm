@@ -3,6 +3,7 @@
 	"description": "learning API development",
 	"keywords": ["freecodecamp","API", "backend"],
 	"license":"MIT",
+	"version": "1.0.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
