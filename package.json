@@ -1,6 +1,7 @@
 {
 	"author": "Girmachew Gulint",
 	"description": "learning API development",
+	"keywords": ["freeCodeCamp","API", "backend"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
